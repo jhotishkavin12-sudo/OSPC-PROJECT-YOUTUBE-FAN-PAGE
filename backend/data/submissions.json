@@ -1,0 +1,93 @@
+[
+  {
+    "id": "sub_1791394443502",
+    "name": "Suresh Raina Fan",
+    "handle": "@suresh_pc",
+    "city": "Tiruchirappalli",
+    "buildTitle": "Trichy Turbo Fighter",
+    "specs": {
+      "gpu": "RTX 4060 8GB",
+      "cpu": "AMD Ryzen 5 7600X",
+      "ram": "32GB DDR5",
+      "storage": "1TB Gen4",
+      "cabinet": "Lian Li 216"
+    },
+    "budget": "? 92,000",
+    "reviewType": "Nanda's Savage Roast Mode",
+    "cableManagementScore": 8.5,
+    "userNote": "Trichy Rockfort speed bro! Rate my wiring.",
+    "nandaVerdict": "Adra sakka! Semma setup. Cable routing konjam clean panna 10/10!",
+    "likes": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-10-07T17:34:03.502Z"
+  },
+  {
+    "id": "sub_1",
+    "name": "Karthik Raja",
+    "handle": "@karthik_builds",
+    "city": "Chennai",
+    "buildTitle": "The Cyber Thalaivar 4K Beast",
+    "specs": {
+      "cpu": "AMD Ryzen 7 7800X3D",
+      "gpu": "Nvidia GeForce RTX 4080 Super 16GB",
+      "ram": "32GB DDR5 6000MHz Corsair Vengeance",
+      "storage": "2TB Kingston KC3000 NVMe Gen4",
+      "cabinet": "Lian Li O11 Dynamic EVO (Black)",
+      "cooler": "DeepCool LS720 360mm ARGB AIO"
+    },
+    "budget": "₹ 2,45,000",
+    "reviewType": "Praise My Rig",
+    "cableManagementScore": 9.5,
+    "userNote": "Vanakkam Nanda bro! Built this following your 7800X3D benchmark video. Cable management took me 4 hours inside the rear chamber!",
+    "nandaVerdict": "Maranamaana build bro! Cable routing pin-drop silent. 10/10 recommendation for 4K ray tracing!",
+    "likes": 142,
+    "imageUrl": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-10-01T14:20:00.000Z"
+  },
+  {
+    "id": "sub_2",
+    "name": "Siva Balan",
+    "handle": "@siva_pc_dude",
+    "city": "Coimbatore",
+    "buildTitle": "Budget Kallapetti Gaming Box",
+    "specs": {
+      "cpu": "Intel Core i5-12400F",
+      "gpu": "AMD Radeon RX 6600 8GB",
+      "ram": "16GB DDR4 3200MHz",
+      "storage": "1TB Crucial P3 Plus",
+      "cabinet": "Ant Esports ICE-100 Air Mini",
+      "cooler": "Stock Intel Cooler"
+    },
+    "budget": "₹ 52,000",
+    "reviewType": "Nanda's Savage Roast Mode",
+    "cableManagementScore": 5,
+    "userNote": "Bro roast pannunga paapom! Kambi kattura kadha laam illa, pure budget 1080p gaming rig.",
+    "nandaVerdict": "Dei thambi, cable ellam snake park maari pinni kedakku! But for 52K, RX 6600 value is sema. Change the stock cooler ASAP da mapla!",
+    "likes": 89,
+    "imageUrl": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-10-03T18:10:00.000Z"
+  },
+  {
+    "id": "sub_3",
+    "name": "Dinesh Kumar M",
+    "handle": "@dinesh_renders",
+    "city": "Madurai",
+    "buildTitle": "A2D Inspired White Aesthetic Studio",
+    "specs": {
+      "cpu": "Intel Core i7-14700K",
+      "gpu": "Zotac RTX 4070 Ti Super Trinity White",
+      "ram": "64GB Trident Z5 Neo RGB DDR5",
+      "storage": "4TB Samsung 990 Pro",
+      "cabinet": "NZXT H9 Flow White",
+      "cooler": "NZXT Kraken Elite 360 RGB White"
+    },
+    "budget": "₹ 2,80,000",
+    "reviewType": "Praise My Rig",
+    "cableManagementScore": 9.8,
+    "userNote": "Full white theme inspired by A2D PC Factory episode 48. Used custom white braided sleeved cables.",
+    "nandaVerdict": "Cleanliness level 100%! White aesthetic lovers delight. A2D certified clean build!",
+    "likes": 230,
+    "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-10-05T09:45:00.000Z"
+  }
+]

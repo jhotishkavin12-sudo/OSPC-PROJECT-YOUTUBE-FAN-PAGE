@@ -1,0 +1,5 @@
+/api/community/*   /.netlify/functions/community   200
+/api/community     /.netlify/functions/community   200
+/api/pc-builds     /.netlify/functions/pc-builds   200
+/api/teardowns     /.netlify/functions/teardowns   200
+/*                 /index.html                     200

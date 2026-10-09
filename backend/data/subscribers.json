@@ -1,0 +1,18 @@
+[
+  {
+    "id": "sub_init_1",
+    "email": "a2dfan_kavink@example.com",
+    "name": "Kavin",
+    "tier": "A2D Army Elite",
+    "source": "Hero Signup",
+    "subscribedAt": "2026-10-06T12:00:00.000Z"
+  },
+  {
+    "id": "sub_1791394433729",
+    "email": "fan_test@a2darmy.com",
+    "name": "Karthik",
+    "tier": "A2D Army Elite",
+    "interest": "All Tech & PC Builds",
+    "subscribedAt": "2026-10-07T17:33:53.729Z"
+  }
+]

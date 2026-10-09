@@ -1,0 +1,90 @@
+[
+  {
+    "id": "A2D-2026-9428",
+    "customerName": "Vignesh Tech",
+    "phone": "9840998877",
+    "email": "vignesh@a2darmy.com",
+    "city": "Madurai",
+    "targetUse": "4K Gaming & Streaming",
+    "components": {
+      "psu": "Corsair RM850x 850W 80+ Gold",
+      "storage": "2TB Kingston KC3000 Gen4",
+      "ram": "32GB DDR5 6000MHz CL30 RGB",
+      "cpu": "AMD Ryzen 7 7800X3D",
+      "cooler": "DeepCool LS720 360mm AIO",
+      "cabinet": "Lian Li O11 Dynamic EVO",
+      "motherboard": "Gigabyte B650 AORUS Elite AX",
+      "gpu": "RTX 4080 Super 16GB"
+    },
+    "estimatedTotal": 215000,
+    "estimatedWatts": 560,
+    "comments": "Please install ARGB sync software.",
+    "status": "Official Quotation Generated",
+    "createdAt": "2026-10-09T12:30:29.792Z"
+  },
+  {
+    "id": "A2D-2026-2413",
+    "customerName": "Kavin J",
+    "phone": "9840112345",
+    "email": "kavin.tech@example.com",
+    "city": "Chennai",
+    "targetUse": "1440p Esports & 3D Rendering",
+    "components": {
+      "gpu": "RTX 4070 Super 12GB",
+      "storage": "1TB NVMe Gen4",
+      "cabinet": "Lian Li O11 Dynamic EVO",
+      "ram": "32GB DDR5 6000MHz",
+      "psu": "750W 80+ Gold",
+      "cpu": "Ryzen 7 7800X3D"
+    },
+    "estimatedTotal": 135000,
+    "estimatedWatts": 450,
+    "comments": "Please test thermals with Cinebench before dispatch.",
+    "status": "Official Quotation Generated",
+    "createdAt": "2026-10-09T12:24:25.038Z"
+  },
+  {
+    "id": "A2D-2026-1001",
+    "customerName": "Dinesh Kumar",
+    "phone": "98401XXXXX",
+    "email": "dinesh.gamer@example.com",
+    "city": "Chennai",
+    "targetUse": "1080p Esports Gaming",
+    "components": {
+      "cpu": "AMD Ryzen 5 5600 (6C/12T)",
+      "gpu": "AMD Radeon RX 6600 8GB GDDR6",
+      "motherboard": "MSI B550M PRO-VDH WiFi",
+      "ram": "16GB (2x8GB) DDR4 3200MHz",
+      "storage": "1TB WD Blue SN580 NVMe Gen4",
+      "psu": "DeepCool PK550D 550W 80+ Bronze",
+      "cabinet": "Ant Esports ICE-112 Mid-Tower",
+      "cooler": "DeepCool AG400 ARGB Single Tower"
+    },
+    "estimatedTotal": 46500,
+    "estimatedWatts": 320,
+    "status": "Quotation Generated",
+    "createdAt": "2026-10-07T11:20:00.000Z"
+  },
+  {
+    "id": "A2D-2026-1002",
+    "customerName": "Sanjay Krishnan",
+    "phone": "98842XXXXX",
+    "email": "sanjay.render@example.com",
+    "city": "Coimbatore",
+    "targetUse": "4K Video Editing & 3D Blender",
+    "components": {
+      "cpu": "AMD Ryzen 7 7800X3D (8C/16T)",
+      "gpu": "NVIDIA GeForce RTX 4070 Super 12GB",
+      "motherboard": "Gigabyte B650 AORUS Elite AX",
+      "ram": "32GB (2x16GB) DDR5 6000MHz CL30",
+      "storage": "2TB Kingston KC3000 Gen4 7000MB/s",
+      "psu": "Corsair RM750e 750W 80+ Gold Modular",
+      "cabinet": "Lian Li Lancool 216 RGB Black",
+      "cooler": "DeepCool LS720 360mm AIO Liquid Cooler"
+    },
+    "estimatedTotal": 142000,
+    "estimatedWatts": 490,
+    "status": "Assembly Queued",
+    "createdAt": "2026-10-08T15:45:00.000Z"
+  }
+]

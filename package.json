@@ -1,0 +1,12 @@
+{
+  "name": "a2d-channel-hub",
+  "version": "1.0.0",
+  "description": "Multi-page web application for A2D Channel with Express backend, Vite React frontend, and Netlify Functions",
+  "scripts": {
+    "start": "node backend/server.js",
+    "build": "npm --prefix frontend install && npm --prefix frontend run build",
+    "build:frontend": "cd frontend && npm install && npm run build",
+    "dev": "node backend/server.js",
+    "dev:frontend": "npm --prefix frontend run dev"
+  }
+}

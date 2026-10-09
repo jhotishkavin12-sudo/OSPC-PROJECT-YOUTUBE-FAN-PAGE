@@ -1,0 +1,14 @@
+{
+  "name": "a2d-backend",
+  "version": "1.0.0",
+  "description": "Backend API for A2D Channel Web Application",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}

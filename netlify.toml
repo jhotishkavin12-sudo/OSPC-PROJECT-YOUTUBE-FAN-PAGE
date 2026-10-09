@@ -1,0 +1,29 @@
+[build]
+  command = "cd frontend && npm install && npm run build"
+  publish = "frontend/dist"
+  functions = "netlify/functions"
+
+[[redirects]]
+  from = "/api/community/*"
+  to = "/.netlify/functions/community"
+  status = 200
+
+[[redirects]]
+  from = "/api/community"
+  to = "/.netlify/functions/community"
+  status = 200
+
+[[redirects]]
+  from = "/api/pc-builds"
+  to = "/.netlify/functions/pc-builds"
+  status = 200
+
+[[redirects]]
+  from = "/api/teardowns"
+  to = "/.netlify/functions/teardowns"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
